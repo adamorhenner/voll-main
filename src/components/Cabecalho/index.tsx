@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import logo from './assets/logo.png';
-import perfil from './assets/perfil.png';
+import logo from '../assets/logo.png';
+import perfil from '../assets/perfil.png';
 
 const CabecalhoEstilizado = styled.header`
     display:flex;
